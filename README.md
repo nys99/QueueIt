@@ -1,4 +1,3 @@
-# Swift
-# Swift
+# QueueIt
 
-Self initiated programming project for using spotify with a group of people
+Before spotify group queues existed, QueueIt was created to allow Spotify iOS users to join and control a joint queue. 
